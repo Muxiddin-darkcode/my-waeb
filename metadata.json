@@ -1,0 +1,6 @@
+{
+  "name": "Yurakdan",
+  "description": "Eng samimiy va chiroyli tuyg'ular izhori. Chin dildan yozilgan maktub va unutilmas lahzalar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

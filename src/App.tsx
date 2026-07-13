@@ -739,7 +739,7 @@ export default function App() {
             transition={{ duration: 0.8, delay: 0.15 }}
             className="text-4xl sm:text-5.5xl md:text-7xl lg:text-8xl font-serif tracking-tight text-white leading-[1.08] font-light"
           >
-            Senga <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-400 via-pink-300 to-rose-400 inline-block font-serif font-medium italic">chin qalbimdan</span> aytar gapim...
+            Nozima, senga <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-400 via-pink-300 to-rose-400 inline-block font-serif font-medium italic">chin qalbimdan</span> aytar gapim...
           </motion.h1>
 
           <motion.p 
@@ -842,12 +842,12 @@ export default function App() {
 
           <div className="glass-panel-heavy rounded-3xl pt-16 pb-8 px-6 sm:p-10 md:p-14 shadow-2xl relative border border-rose-500/10">
             <div className="absolute top-5 right-5 sm:top-8 sm:right-8 border border-rose-500/20 rounded px-2.5 py-0.5 sm:px-3 sm:py-1 font-mono text-[9px] sm:text-[10px] uppercase text-rose-400/65 transform rotate-12 tracking-widest hover:rotate-0 transition-all select-none">
-              Faqat Sen Uchun
+              Faqat Nozima Uchun
             </div>
 
             <div className="space-y-8 text-neutral-300 font-light leading-relaxed md:text-lg">
               <p>
-                Senga ushbu satrlarni yozishni uzoq o‘yladim. Tuyg‘ulari, ichki kechinmalarini birovga izhor qilish har doim ham oson emas. Lekin baribir dildagi samimiy so'zlarning yashirin qolishini istamadim.
+                Nozima, senga ushbu satrlarni yozishni uzoq o‘yladim. Tuyg‘ulari, ichki kechinmalarini birovga izhor qilish har doim ham oson emas. Lekin baribir dildagi samimiy so'zlarning yashirin qolishini istamadim.
               </p>
 
               <p>
@@ -865,7 +865,7 @@ export default function App() {
 
             <div className="mt-12 pt-8 border-t border-white/5 flex flex-col items-end">
               <span className="text-xs font-mono text-neutral-500">Samimiyat va hurmat ila</span>
-              <span className="text-xl font-serif text-rose-300 font-medium italic mt-1 pr-1">Sening sirdoshingdan</span>
+              <span className="text-xl font-serif text-rose-300 font-medium italic mt-1 pr-1">Muhiddin</span>
             </div>
           </div>
 
